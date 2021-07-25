@@ -6,7 +6,7 @@ and gives output in json format for api use.
 This address are working many places like amazon paypal u can also use on 
 your cc checker..
 
-Have a look hosted temp http://random-address.com/api/ ..
+Have a look hosted temp https://randomuser.me/ ..
 ___
 
 ## wanna deploy click button below...
